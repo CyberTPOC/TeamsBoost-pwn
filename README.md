@@ -226,5 +226,5 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 ---
 
-Este README está listo para ser utilizado, incluyendo detalles sobre la estructura del proyecto, cómo empezar, la instalación, pruebas, contribuciones y licencias. ¡Ahora puedes personalizarlo más si es necesario!
+
 

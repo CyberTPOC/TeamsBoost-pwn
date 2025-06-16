@@ -4,7 +4,7 @@ Do not install
 ---
 
 <p align="center">
-    <img src="https://github.com/CyberTPOC/TeamsBoost-pwn/blob/main/TeamsBoost.ico" align="center" width="30%">
+    <img src="https://github.com/CyberTPOC/TeamsBoost-pwn/blob/main/TeamsBoost.ico" align="center" width="20%">
 </p>
 <p align="center"><h1 align="center">TEAMSBOOST-PWN</h1></p>
 <p align="center">

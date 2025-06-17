@@ -1,5 +1,3 @@
-# TeamsBoost
-
 Do not install
 ---
 
